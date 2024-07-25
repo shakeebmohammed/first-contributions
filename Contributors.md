@@ -85,6 +85,7 @@
 -ali
 -first Contribution
 -[Amritanshu Darbari](https://github.com/MinuteHanD)**Just getting started**
+-[Shakeeb Mohammed] (https://github.com/shakeebmohammed) *First Contribution* Yayy
 -piyush (first contribution)
 - El Vitas
 - [vigneshsb](https://vigneshsb.fun)
